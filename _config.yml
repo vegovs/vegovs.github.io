@@ -1,18 +1,18 @@
 title:            VBØ
-description:      
+description:      Blog/Compendiums
 disqus_shortname: 
 reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: https://vegovs.github.io/compendium-website/
+url: https://vegovs.github.io/
 
 # Owner/author information
 owner:
   name:           Vegard Bergsvik Øvstegård
   avatar:         avatar.jpg
   bio:            Informatikk student ved UIO
-  email:          vegarbov@student.matnat.uio.no
+  email:          vegarbov@uio.no
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       OvsteG
