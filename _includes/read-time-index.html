@@ -1,0 +1,2 @@
+{% assign readtime = post.content | strip_html | number_of_words | divided_by:site.words_per_minute %}
+Tiden det tar å lese ~{% if readtime <= 1 %}1 minutt{% else %}{{ readtime }} minutter{% endif %}

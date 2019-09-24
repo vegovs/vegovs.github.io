@@ -1,0 +1,2 @@
+![my_pic]({{ "/images/pic.jpg" | absolute_url }})
+
